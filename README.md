@@ -1,5 +1,8 @@
 # Build and Deploy a React Native App | 2023 React Native Course Tutorial for Beginners
-![React Native]
+![React Native] 
+
+## For check app first install Expo Go app on your mobile by Playstore and then scan QR code using this link
+(https://expo.dev/@zain117/jobsift?serviceType=classic&distribution=expo-go)
 
 ## Introduction
 The most impressive mobile app in React Native to find best jobs as you want and also apply on these jobs. 
